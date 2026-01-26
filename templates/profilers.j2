@@ -1,0 +1,23 @@
+## metagenome profiling tools
+
+{% macro assembler_tbl(profilers, sequence_type) -%}
+| Profilers | technology | profiling_level | Publication | Last update |
+|:----------|:---------- |:--------------- |:------------|:------------|
+{%- for p in profilers -%}
+  {% if p.sequence_type == sequence_type %}
+| [{{p.name}}]({{p.tool_link}}) | technology | profiling_level | [{{p.publication_doi}}]({{p.publication_doi_link}}) | {{p.last_update}} |
+  {%- endif %}
+{%- endfor %}
+{%- endmacro -%}
+
+### DNA-to-DNA
+ 
+{{ assembler_tbl(profilers, "DNA-to-DNA") }}
+
+### DNA-to-protein
+ 
+{{ assembler_tbl(profilers, "DNA-to-protein") }}
+
+### Markers
+ 
+{{ assembler_tbl(profilers, "Markers") }}

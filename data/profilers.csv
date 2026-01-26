@@ -1,0 +1,4 @@
+sequence_type,name,technology,profiling_level,tool_link,publication_doi,publication_doi_link,last_update
+DNA-to-DNA, PanTax, NGS;TGS, strain, https://github.com/LuoGroup2023/PanTax.git, 10.1101/gr.280858.125, https://www.genome.org/cgi/doi/10.1101/gr.280858.125, 2026
+DNA-to-protein, MMseqs2, NGS[;TGS], forma;varietas;subspecies;species, https://github.com/soedinglab/MMseqs2.git, 10.1093/bioinformatics/btab184, https://doi.org/10.1093/bioinformatics/btab184, 2026
+Markers, MetaPhlAn4, NGS;TGS(v4.2.2), species, https://github.com/biobakery/MetaPhlAn.git, 10.1038/s41587-023-01688-w, https://doi.org/10.1038/s41587-023-01688-w, 2025
