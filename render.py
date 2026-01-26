@@ -38,12 +38,12 @@ class Software:
     """Defines standard fields and behaviours for all softwares."""
 
     name: str
-    link: Optional[str]
-    publication: Optional[str]
+    tool_link: Optional[str]
+    publication_doi: Optional[str]
     last_update: Optional[str]
 
     def __post_init__(self):
-        if self.link:
+        if self.tool_link:
             self.set_last_commit_date()
             # Don't spam git server
             time.sleep(0.1)
@@ -51,7 +51,7 @@ class Software:
     def set_last_commit_date(self):
         """Read the remote repo to find the latest commit date"""
         try:
-            self.last_update = get_last_commit_date(self.link)
+            self.last_update = get_last_commit_date(self.tool_link)
         # If this is not a git repo, do nothing
         except git.GitCommandError:
             pass
@@ -62,8 +62,6 @@ class Profilers(Software):
     sequence_type: str
     technology: str
     profiling_level: str
-    tool_link: Optional[str]
-    publication_doi: Optional[str]
     publication_doi_link: Optional[str]
        
 
@@ -136,9 +134,9 @@ with open("templates/header.md") as header:
 
 ### profilers ###
 
-profilers = load_softwares("data/profilers.csv", Profilers)
+procs = load_softwares("data/profilers.csv", Profilers)
 template = env.get_template("templates/profilers.j2")
-print(template.render(profilers=profilers))
-
+fmt_procs = fmt_processors(procs)
+print(template.render(profilers=fmt_procs))
 
 
