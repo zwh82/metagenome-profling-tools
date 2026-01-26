@@ -59,12 +59,13 @@ class Software:
 
 @dataclass
 class Profilers(Software):
-    """A software used to assemble a genome"""
-
     sequence_type: str
+    technology: str
+    profiling_level: str
+    tool_link: Optional[str]
+    publication_doi: Optional[str]
+    publication_doi_link: Optional[str]
        
-
-
 
 S = TypeVar("S", Software, Profilers)
 
@@ -76,7 +77,7 @@ def load_softwares(path: str, soft_type: Type[S]) -> List[S]:
     ----------
     path: str
         Path to CSV file containing the list of softwares.
-    soft_type: type Software, Assembler or Processor
+    soft_type: type Software, Profilers
         The class to use to represent softwares. This
         affects the fields available."""
     softs = []
