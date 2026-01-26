@@ -5,7 +5,7 @@ The original motivation was that an increasing number of metagenomic profiling t
 
 ## Acknowledgement
 
-This repository is initialized from a template cloned from the following repository: [metagenome_profiling_tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools.git)
+This repository is initialized from a template cloned from the following repository: [genome_assembly_tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools.git)
 
 ## Contributing
 
@@ -38,18 +38,20 @@ Therefore, the categorization of tools in here is primarily based on the experim
 
 ### DNA-to-DNA
  
-| Profilers | technology | profiling_level | Publication | Last update |
+| Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
+| [ MetaCache]( https://github.com/muellan/metacache.git) |  NGS |  species | [ 10.1093/bioinformatics/btx520]( https://doi.org/10.1093/bioinformatics/btx520) |  2017 |
+| [ PHLAME]( https://github.com/quevan/phlame.git) |  NGS |  strain (single-species) | [ 10.1016/j.celrep.2025.116134]( https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(25)00905-2) |  2025 |
 | [ PanTax]( https://github.com/LuoGroup2023/PanTax.git) |  NGS;TGS |  strain | [ 10.1101/gr.280858.125]( https://www.genome.org/cgi/doi/10.1101/gr.280858.125) |  2026 |
 
 ### DNA-to-protein
  
-| Profilers | technology | profiling_level | Publication | Last update |
+| Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
 | [ MMseqs2]( https://github.com/soedinglab/MMseqs2.git) |  NGS[;TGS] |  forma;varietas;subspecies;species | [ 10.1093/bioinformatics/btab184]( https://doi.org/10.1093/bioinformatics/btab184) |  2026 |
 
 ### Markers
  
-| Profilers | technology | profiling_level | Publication | Last update |
+| Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
 | [ MetaPhlAn4]( https://github.com/biobakery/MetaPhlAn.git) |  NGS;TGS(v4.2.2) |  species | [ 10.1038/s41587-023-01688-w]( https://doi.org/10.1038/s41587-023-01688-w) |  2025 |
