@@ -5,7 +5,7 @@
 |:----------|:---------- |:--------------- |:------------|:------------|
 {%- for p in profilers -%}
   {% if p.sequence_type == sequence_type %}
-| [{{p.name}}]({{p.tool_link}}) | p.technology | p.profiling_level | [{{p.publication_doi}}]({{p.publication_doi_link}}) | {{p.last_update}} |
+| [{{p.name}}]({{p.tool_link}}) | {{p.technology}} | {{p.profiling_level}} | [{{p.publication_doi}}]({{p.publication_doi_link}}) | {{p.last_update}} |
   {%- endif %}
 {%- endfor %}
 {%- endmacro -%}
