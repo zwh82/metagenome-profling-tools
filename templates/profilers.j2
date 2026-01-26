@@ -1,7 +1,7 @@
 ## metagenome profiling tools
 
 {% macro assembler_tbl(profilers, sequence_type) -%}
-| Profilers | technology | profiling_level | Publication | Last update |
+| Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
 {%- for p in profilers -%}
   {% if p.sequence_type == sequence_type %}
