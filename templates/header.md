@@ -5,7 +5,7 @@ The original motivation was that an increasing number of metagenomic profiling t
 
 ## Acknowledgement
 
-This repository is initialized from a template cloned from the following repository: [metagenome_profiling_tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools.git)
+This repository is initialized from a template cloned from the following repository: [genome_assembly_tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools.git)
 
 ## Contributing
 
