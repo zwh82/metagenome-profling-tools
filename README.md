@@ -40,16 +40,16 @@ Therefore, the categorization of tools in here is primarily based on the experim
  
 | Profilers | technology | profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
-| [PanTax](https://github.com/LuoGroup2023/PanTax.git) | p.technology | p.profiling_level | [10.1101/gr.280858.125](https://www.genome.org/cgi/doi/10.1101/gr.280858.125) | 2026-1 |
+| [ PanTax]( https://github.com/LuoGroup2023/PanTax.git) |  NGS;TGS |  strain | [ 10.1101/gr.280858.125]( https://www.genome.org/cgi/doi/10.1101/gr.280858.125) |  2026 |
 
 ### DNA-to-protein
  
 | Profilers | technology | profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
-| [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | p.technology | p.profiling_level | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2025-12 |
+| [ MMseqs2]( https://github.com/soedinglab/MMseqs2.git) |  NGS[;TGS] |  forma;varietas;subspecies;species | [ 10.1093/bioinformatics/btab184]( https://doi.org/10.1093/bioinformatics/btab184) |  2026 |
 
 ### Markers
  
 | Profilers | technology | profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
-| [MetaPhlAn4](https://github.com/biobakery/MetaPhlAn.git) | p.technology | p.profiling_level | [10.1038/s41587-023-01688-w](https://doi.org/10.1038/s41587-023-01688-w) | 2025-12 |
+| [ MetaPhlAn4]( https://github.com/biobakery/MetaPhlAn.git) |  NGS;TGS(v4.2.2) |  species | [ 10.1038/s41587-023-01688-w]( https://doi.org/10.1038/s41587-023-01688-w) |  2025 |
