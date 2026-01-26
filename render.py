@@ -83,6 +83,7 @@ def load_softwares(path: str, soft_type: Type[S]) -> List[S]:
     with open(path, "r") as csvfile:
         reader = csv.DictReader(csvfile)
         for idx, row in enumerate(reader):
+            row = {k.strip(): (v.strip() if v else None) for k, v in row.items()}
             # csv fields expand to dataclass attrs
             softs.append(soft_type(**row))
             logging.info(
