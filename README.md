@@ -3,6 +3,8 @@
 
 The original motivation was that an increasing number of metagenomic profiling tools are being developed, but it is not always possible to read and evaluate them in detail when they appear. Therefore, I collect them here.
 
+It is being added gradually, possibly over the next few days.
+
 ## Acknowledgement
 
 This repository is initialized from a template cloned from the following repository: [genome_assembly_tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools.git)
