@@ -48,7 +48,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
  
 | Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
-| [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-1 |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-2 |
 
 ### Markers
  
