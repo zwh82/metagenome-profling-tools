@@ -51,7 +51,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [Kraken2](https://github.com/DerrickWood/kraken2.git) | NGS[;TGS] | species | [10.1186/s13059-019-1891-0](https://doi.org/10.1186/s13059-019-1891-0) | 2026-2 |
 | [KrakenUniq](https://github.com/fbreitwieser/krakenuniq.git) | NGS;TGS | species | [10.1186/s13059-018-1568-0](https://doi.org/10.1186/s13059-018-1568-0) | 2023-12 |
 | [MADRe](https://github.com/lbcb-sci/MADRe.git) | NGS | strain | [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.12.653324) | 2025-11 |
-| [MegaBLAST](NCBI blast) | NGS;TGS |  | []() | none |
+| [MegaBLAST]() | NGS;TGS |  | [NCBI blast]() | none |
 | [MetaCache](https://github.com/muellan/metacache.git) | NGS | species | [10.1093/bioinformatics/btx520](https://doi.org/10.1093/bioinformatics/btx520) | 2025-12 |
 | [MetaMaps](https://github.com/DiltheyLab/MetaMaps.git) | TGS | strain | [10.1038/s41467-019-10934-2](https://doi.org/10.1038/s41467-019-10934-2) | 2023-10 |
 | [PHLAME](https://github.com/quevan/phlame.git) | NGS | strain (single-species) | [10.1016/j.celrep.2025.116134](https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(25)00905-2) | 2025-8 |
