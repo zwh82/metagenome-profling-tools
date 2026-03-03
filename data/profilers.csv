@@ -3,7 +3,7 @@ DNA-to-DNA, CLARK, NGS[;TGS], species, https://github.com/rouni001/CLARK.git, 10
 DNA-to-DNA, Kraken2, NGS[;TGS], species, https://github.com/DerrickWood/kraken2.git, 10.1186/s13059-019-1891-0, https://doi.org/10.1186/s13059-019-1891-0, 2019
 DNA-to-DNA, Bracken, NGS, species, https://github.com/jenniferlu717/Bracken.git, 10.7717/peerj-cs.104, https://doi.org/10.7717/peerj-cs.104, 2017
 DNA-to-DNA, KrakenUniq, NGS;TGS, species, https://github.com/fbreitwieser/krakenuniq.git, 10.1186/s13059-018-1568-0, https://doi.org/10.1186/s13059-018-1568-0, 2018
-DNA-to-DNA, MegaBLAST, NGS;TGS, NCBI blast, , , , none
+DNA-to-DNA, MegaBLAST, NGS;TGS, , NCBI blast , , , none
 DNA-to-DNA, MetaCache, NGS, species, https://github.com/muellan/metacache.git, 10.1093/bioinformatics/btx520, https://doi.org/10.1093/bioinformatics/btx520, 2017
 DNA-to-DNA, Taxor, TGS, species, https://github.com/JensUweUlrich/Taxor.git, 10.1101/gr.278623.123, https://www.genome.org/cgi/doi/10.1101/gr.278623.123, 2024
 DNA-to-DNA, Sylph, NGS; TGS, species, https://github.com/bluenote-1577/sylph.git, 10.1038/s41587-024-02412-y, https://doi.org/10.1038/s41587-024-02412-y, 2024
@@ -26,5 +26,5 @@ DNA-to-protein, MEGAN-LR, TGS, strain, https://uni-tuebingen.de/fakultaeten/math
 Markers, MetaPhlAn4, NGS;TGS(v4.2.2), species, https://github.com/biobakery/MetaPhlAn.git, 10.1038/s41587-023-01688-w, https://doi.org/10.1038/s41587-023-01688-w, 2025
 Markers, Melon, TGS, species, https://github.com/xinehc/melon.git, 10.1186/s13059-024-03363-y, https://doi.org/10.1186/s13059-024-03363-y, 2024
 DNA-to-DNA, MADRe, NGS, strain, https://github.com/lbcb-sci/MADRe.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.05.12.653324, 2025
-DNA-to-DNA, MADRe, NGS, species, https://github.com/LoadStar822/Chimera.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1, 2025
+DNA-to-DNA, Chimera, NGS, species, https://github.com/LoadStar822/Chimera.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1, 2025
 DNA-to-DNA, UniqSketch, NGS, strain, https://github.com/amazon-science/uniqsketch.git, , , 2025
