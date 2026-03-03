@@ -1,7 +1,30 @@
 sequence_type,name,technology,profiling_level,tool_link,publication_doi,publication_doi_link,last_update
+DNA-to-DNA, CLARK, NGS[;TGS], species, https://github.com/rouni001/CLARK.git, 10.1186/s12864-015-1419-2, https://doi.org/10.1186/s12864-015-1419-2, 2015
+DNA-to-DNA, Kraken2, NGS[;TGS], species, https://github.com/DerrickWood/kraken2.git, 10.1186/s13059-019-1891-0, https://doi.org/10.1186/s13059-019-1891-0, 2019
+DNA-to-DNA, Bracken, NGS, species, https://github.com/jenniferlu717/Bracken.git, 10.7717/peerj-cs.104, https://doi.org/10.7717/peerj-cs.104, 2017
+DNA-to-DNA, KrakenUniq, NGS;TGS, https://github.com/fbreitwieser/krakenuniq.git, 10.1186/s13059-018-1568-0, https://doi.org/10.1186/s13059-018-1568-0, 2018
+DNA-to-DNA, MegaBLAST, NGS;TGS, NCBI blast
 DNA-to-DNA, MetaCache, NGS, species, https://github.com/muellan/metacache.git, 10.1093/bioinformatics/btx520, https://doi.org/10.1093/bioinformatics/btx520, 2017
-DNA-to-DNA, StrainR2, NGS, strain (single-species), https://github.com/BisanzLab/StrainR2.git, 10.1093/bioinformatics/btaf440, https://doi.org/10.1093/bioinformatics/btaf440, 2025
+DNA-to-DNA, Taxor, TGS, species, https://github.com/JensUweUlrich/Taxor.git, 10.1101/gr.278623.123, https://www.genome.org/cgi/doi/10.1101/gr.278623.123, 2024
+DNA-to-DNA, Sylph, NGS; TGS, species, https://github.com/bluenote-1577/sylph.git, 10.1038/s41587-024-02412-y, https://doi.org/10.1038/s41587-024-02412-y, 2024
+DNA-to-DNA, Ganon2, NGS[;TGS], species (strain), https://github.com/pirovc/ganon.git, 10.1093/nargab/lqaf094, https://doi.org/10.1093/nargab/lqaf094, 2025
+DNA-to-DNA, KMCP, NGS[;TGS], species (strain), https://github.com/shenwei356/kmcp.git, 10.1093/bioinformatics/btac845, https://doi.org/10.1093/bioinformatics/btac845, 2022
+DNA-to-DNA, Centrifuge, NGS;TGS, species (strain), https://github.com/DaehwanKimLab/centrifuge.git, 10.1101/gr.210641.116, http://www.genome.org/cgi/doi/10.1101/gr.210641.116, 2016
+DNA-to-DNA, Centrifuger, NGS;TGS, strain, https://github.com/DaehwanKimLab/centrifuge.git, 10.1186/s13059-024-03244-4, https://doi.org/10.1186/s13059-024-03244-4, 2024
+DNA-to-DNA, MetaMaps, TGS, strain, https://github.com/DiltheyLab/MetaMaps.git, 10.1038/s41467-019-10934-2, https://doi.org/10.1038/s41467-019-10934-2, 2019
+DNA-to-DNA, Qmatey, NGS, strain, https://github.com/bodeolukolu/Qmatey.git, 10.1093/bib/bbad351, https://doi.org/10.1093/bib/bbad351, 2023
+DNA-to-DNA, CAMMiQ, NGS, strain, https://github.com/algo-cancer/CAMMiQ.git, 10.1038/s41467-022-33869-7, https://doi.org/10.1038/s41467-022-33869-7, 2022
 DNA-to-DNA, PanTax, NGS;TGS, strain, https://github.com/LuoGroup2023/PanTax.git, 10.1101/gr.280858.125, https://www.genome.org/cgi/doi/10.1101/gr.280858.125, 2026
+DNA-to-DNA, StrainEst, NGS, strain (single-species), https://github.com/compmetagen/strainest.git, 10.1038/s41467-017-02209-5, https://doi.org/10.1038/s41467-017-02209-5, 2017
+DNA-to-DNA, StrainGE, NGS, strain (single-species), https://github.com/broadinstitute/StrainGE.git, 10.1186/s13059-022-02630-0, https://doi.org/10.1186/s13059-022-02630-0, 2022
+DNA-to-DNA, StrainScan, NGS, strain (single-species), https://github.com/liaoherui/StrainScan.git, 10.1186/s40168-023-01615-w, https://doi.org/10.1186/s40168-023-01615-w, 2023
+DNA-to-DNA, StrainR2, NGS, strain (single-species), https://github.com/BisanzLab/StrainR2.git, 10.1093/bioinformatics/btaf440, https://doi.org/10.1093/bioinformatics/btaf440, 2025
 DNA-to-DNA, PHLAME, NGS, strain (single-species), https://github.com/quevan/phlame.git, 10.1016/j.celrep.2025.116134, https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(25)00905-2, 2025
 DNA-to-protein, MMseqs2, NGS[;TGS], forma;varietas;subspecies;species, https://github.com/soedinglab/MMseqs2.git, 10.1093/bioinformatics/btab184, https://doi.org/10.1093/bioinformatics/btab184, 2026
+DNA-to-protein, Kaiju, NGS[;TGS], species, https://github.com/bioinformatics-centre/kaiju.git, 10.1038/ncomms11257, https://doi.org/10.1038/ncomms11257, 2016
+DNA-to-protein, MEGAN-LR, TGS, strain, https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6, 10.1186/s13062-018-0208-7, https://doi.org/10.1186/s13062-018-0208-7, 2018
 Markers, MetaPhlAn4, NGS;TGS(v4.2.2), species, https://github.com/biobakery/MetaPhlAn.git, 10.1038/s41587-023-01688-w, https://doi.org/10.1038/s41587-023-01688-w, 2025
+Markers, Melon, TGS, species, https://github.com/xinehc/melon.git, 10.1186/s13059-024-03363-y, https://doi.org/10.1186/s13059-024-03363-y, 2024
+DNA-to-DNA, MADRe, NGS, strain, https://github.com/lbcb-sci/MADRe.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.05.12.653324, 2025
+DNA-to-DNA, MADRe, NGS, species, https://github.com/LoadStar822/Chimera.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1, 2025
+DNA-to-DNA, UniqSketch, NGS, strain, https://github.com/amazon-science/uniqsketch.git, , , 2025
