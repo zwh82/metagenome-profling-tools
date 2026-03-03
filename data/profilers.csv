@@ -3,7 +3,7 @@ DNA-to-DNA, CLARK, NGS[;TGS], species, https://github.com/rouni001/CLARK.git, 10
 DNA-to-DNA, Kraken2, NGS[;TGS], species, https://github.com/DerrickWood/kraken2.git, 10.1186/s13059-019-1891-0, https://doi.org/10.1186/s13059-019-1891-0, 2019
 DNA-to-DNA, Bracken, NGS, species, https://github.com/jenniferlu717/Bracken.git, 10.7717/peerj-cs.104, https://doi.org/10.7717/peerj-cs.104, 2017
 DNA-to-DNA, KrakenUniq, NGS;TGS, species, https://github.com/fbreitwieser/krakenuniq.git, 10.1186/s13059-018-1568-0, https://doi.org/10.1186/s13059-018-1568-0, 2018
-DNA-to-DNA, MegaBLAST, NGS;TGS, , NCBI blast , , , none
+DNA-to-DNA, MegaBLAST, NGS;TGS, , , NCBI blast, , none
 DNA-to-DNA, MetaCache, NGS, species, https://github.com/muellan/metacache.git, 10.1093/bioinformatics/btx520, https://doi.org/10.1093/bioinformatics/btx520, 2017
 DNA-to-DNA, Taxor, TGS, species, https://github.com/JensUweUlrich/Taxor.git, 10.1101/gr.278623.123, https://www.genome.org/cgi/doi/10.1101/gr.278623.123, 2024
 DNA-to-DNA, Sylph, NGS; TGS, species, https://github.com/bluenote-1577/sylph.git, 10.1038/s41587-024-02412-y, https://doi.org/10.1038/s41587-024-02412-y, 2024
