@@ -25,6 +25,7 @@ DNA-to-protein, Kaiju, NGS[;TGS], species, https://github.com/bioinformatics-cen
 DNA-to-protein, MEGAN-LR, TGS, strain, https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6, 10.1186/s13062-018-0208-7, https://doi.org/10.1186/s13062-018-0208-7, 2018
 Markers, MetaPhlAn4, NGS;TGS(v4.2.2), species, https://github.com/biobakery/MetaPhlAn.git, 10.1038/s41587-023-01688-w, https://doi.org/10.1038/s41587-023-01688-w, 2025
 Markers, Melon, TGS, species, https://github.com/xinehc/melon.git, 10.1186/s13059-024-03363-y, https://doi.org/10.1186/s13059-024-03363-y, 2024
+Markers, SingleM, NGS;TGS, species, https://github.com/wwood/singlem.git, 10.1038/s41587-025-02738-1, https://doi.org/10.1038/s41587-025-02738-1, 2024
 DNA-to-DNA, MADRe, NGS, strain, https://github.com/lbcb-sci/MADRe.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.05.12.653324, 2025
 DNA-to-DNA, Chimera, NGS, species, https://github.com/LoadStar822/Chimera.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1, 2025
 DNA-to-DNA, UniqSketch, NGS, strain, https://github.com/amazon-science/uniqsketch.git, , , 2025
