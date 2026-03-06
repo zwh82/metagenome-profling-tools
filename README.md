@@ -71,7 +71,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 |:----------|:---------- |:--------------- |:------------|:------------|
 | [Kaiju](https://github.com/bioinformatics-centre/kaiju.git) | NGS[;TGS] | species | [10.1038/ncomms11257](https://doi.org/10.1038/ncomms11257) | 2025-1 |
 | [MEGAN-LR](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6) | TGS | strain | [10.1186/s13062-018-0208-7](https://doi.org/10.1186/s13062-018-0208-7) | 2018 |
-| [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-2 |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-3 |
 
 ### Markers
  
@@ -79,3 +79,4 @@ Therefore, the categorization of tools in here is primarily based on the experim
 |:----------|:---------- |:--------------- |:------------|:------------|
 | [Melon](https://github.com/xinehc/melon.git) | TGS | species | [10.1186/s13059-024-03363-y](https://doi.org/10.1186/s13059-024-03363-y) | 2025-4 |
 | [MetaPhlAn4](https://github.com/biobakery/MetaPhlAn.git) | NGS;TGS(v4.2.2) | species | [10.1038/s41587-023-01688-w](https://doi.org/10.1038/s41587-023-01688-w) | 2025-12 |
+| [SingleM](https://github.com/wwood/singlem.git) | NGS;TGS | species | [10.1038/s41587-025-02738-1](https://doi.org/10.1038/s41587-025-02738-1) | 2026-2 |
