@@ -29,6 +29,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 * [metagenome profiling tools](#metagenome-profiling-tools)
   * [DNA-to-DNA](#DNA-to-DNA)
   * [DNA-to-protein](#DNA-to-protein)
+  * [DNA-to-DNA and protein](#DNA-to-DNA-and-protein)
   * [Marked-based](#Marked-based)
 
 
@@ -40,15 +41,15 @@ Therefore, the categorization of tools in here is primarily based on the experim
  
 | Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
-| [Bracken](https://github.com/jenniferlu717/Bracken.git) | NGS | species | [10.7717/peerj-cs.104](https://doi.org/10.7717/peerj-cs.104) | 2025-2 |
+| [Bracken](https://github.com/jenniferlu717/Bracken.git) | NGS | species | [10.7717/peerj-cs.104](https://doi.org/10.7717/peerj-cs.104) | 2026-3 |
 | [CAMMiQ](https://github.com/algo-cancer/CAMMiQ.git) | NGS | strain | [10.1038/s41467-022-33869-7](https://doi.org/10.1038/s41467-022-33869-7) | 2021-10 |
 | [CLARK](https://github.com/rouni001/CLARK.git) | NGS[;TGS] | species | [10.1186/s12864-015-1419-2](https://doi.org/10.1186/s12864-015-1419-2) | 2024-5 |
 | [Centrifuge](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | species (strain) | [10.1101/gr.210641.116](http://www.genome.org/cgi/doi/10.1101/gr.210641.116) | 2025-6 |
 | [Centrifuger](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | strain | [10.1186/s13059-024-03244-4](https://doi.org/10.1186/s13059-024-03244-4) | 2025-6 |
 | [Chimera](https://github.com/LoadStar822/Chimera.git) | NGS | species | [biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1) | 2025-9 |
-| [Ganon2](https://github.com/pirovc/ganon.git) | NGS[;TGS] | species (strain) | [10.1093/nargab/lqaf094](https://doi.org/10.1093/nargab/lqaf094) | 2026-2 |
+| [Ganon2](https://github.com/pirovc/ganon.git) | NGS[;TGS] | species (strain) | [10.1093/nargab/lqaf094](https://doi.org/10.1093/nargab/lqaf094) | 2026-3 |
 | [KMCP](https://github.com/shenwei356/kmcp.git) | NGS[;TGS] | species (strain) | [10.1093/bioinformatics/btac845](https://doi.org/10.1093/bioinformatics/btac845) | 2023-9 |
-| [Kraken2](https://github.com/DerrickWood/kraken2.git) | NGS[;TGS] | species | [10.1186/s13059-019-1891-0](https://doi.org/10.1186/s13059-019-1891-0) | 2026-2 |
+| [Kraken2](https://github.com/DerrickWood/kraken2.git) | NGS[;TGS] | species | [10.1186/s13059-019-1891-0](https://doi.org/10.1186/s13059-019-1891-0) | 2026-3 |
 | [KrakenUniq](https://github.com/fbreitwieser/krakenuniq.git) | NGS;TGS | species | [10.1186/s13059-018-1568-0](https://doi.org/10.1186/s13059-018-1568-0) | 2023-12 |
 | [MADRe](https://github.com/lbcb-sci/MADRe.git) | NGS | strain | [biorxiv](https://www.biorxiv.org/content/10.1101/2025.05.12.653324) | 2025-11 |
 | [MegaBLAST]() | NGS;TGS |  | [NCBI blast]() | none |
@@ -73,10 +74,16 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [MEGAN-LR](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6) | TGS | strain | [10.1186/s13062-018-0208-7](https://doi.org/10.1186/s13062-018-0208-7) | 2018 |
 | [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-3 |
 
+### DNA-to-protein
+| Profilers | Technology | Profiling_level | Publication | Last update |
+|:----------|:---------- |:--------------- |:------------|:------------|
+| [Metabuli](https://github.com/steineggerlab/Metabuli.git) | NGS;TGS | species | [10.1038/s41592-024-02273-y](https://doi.org/10.1038/s41592-024-02273-y) | 2026-3 |
+
 ### Markers
  
 | Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
 | [Melon](https://github.com/xinehc/melon.git) | TGS | species | [10.1186/s13059-024-03363-y](https://doi.org/10.1186/s13059-024-03363-y) | 2025-4 |
 | [MetaPhlAn4](https://github.com/biobakery/MetaPhlAn.git) | NGS;TGS(v4.2.2) | species | [10.1038/s41587-023-01688-w](https://doi.org/10.1038/s41587-023-01688-w) | 2025-12 |
-| [SingleM](https://github.com/wwood/singlem.git) | NGS;TGS | species | [10.1038/s41587-025-02738-1](https://doi.org/10.1038/s41587-025-02738-1) | 2026-2 |
+| [SingleM](https://github.com/wwood/singlem.git) | NGS;TGS | species | [10.1038/s41587-025-02738-1](https://doi.org/10.1038/s41587-025-02738-1) | 2026-3 |
+
