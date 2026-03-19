@@ -23,6 +23,7 @@ DNA-to-DNA, PHLAME, NGS, strain (single-species), https://github.com/quevan/phla
 DNA-to-protein, MMseqs2, NGS[;TGS], forma;varietas;subspecies;species, https://github.com/soedinglab/MMseqs2.git, 10.1093/bioinformatics/btab184, https://doi.org/10.1093/bioinformatics/btab184, 2026
 DNA-to-protein, Kaiju, NGS[;TGS], species, https://github.com/bioinformatics-centre/kaiju.git, 10.1038/ncomms11257, https://doi.org/10.1038/ncomms11257, 2016
 DNA-to-protein, MEGAN-LR, TGS, strain, https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6, 10.1186/s13062-018-0208-7, https://doi.org/10.1186/s13062-018-0208-7, 2018
+DNA-to-DNA and protein, Metabuli, NGS;TGS, species, https://github.com/steineggerlab/Metabuli.git, 10.1038/s41592-024-02273-y, https://doi.org/10.1038/s41592-024-02273-y, 2024
 Markers, MetaPhlAn4, NGS;TGS(v4.2.2), species, https://github.com/biobakery/MetaPhlAn.git, 10.1038/s41587-023-01688-w, https://doi.org/10.1038/s41587-023-01688-w, 2025
 Markers, Melon, TGS, species, https://github.com/xinehc/melon.git, 10.1186/s13059-024-03363-y, https://doi.org/10.1186/s13059-024-03363-y, 2024
 Markers, SingleM, NGS;TGS, species, https://github.com/wwood/singlem.git, 10.1038/s41587-025-02738-1, https://doi.org/10.1038/s41587-025-02738-1, 2024
