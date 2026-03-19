@@ -74,7 +74,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [MEGAN-LR](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6) | TGS | strain | [10.1186/s13062-018-0208-7](https://doi.org/10.1186/s13062-018-0208-7) | 2018 |
 | [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-3 |
 
-### DNA-to-protein
+### DNA-to-DNA and protein
 | Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
 | [Metabuli](https://github.com/steineggerlab/Metabuli.git) | NGS;TGS | species | [10.1038/s41592-024-02273-y](https://doi.org/10.1038/s41592-024-02273-y) | 2026-3 |
