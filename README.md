@@ -52,7 +52,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [Kraken2](https://github.com/DerrickWood/kraken2.git) | NGS[;TGS] | species | [10.1186/s13059-019-1891-0](https://doi.org/10.1186/s13059-019-1891-0) | 2026-3 |
 | [KrakenUniq](https://github.com/fbreitwieser/krakenuniq.git) | NGS;TGS | species | [10.1186/s13059-018-1568-0](https://doi.org/10.1186/s13059-018-1568-0) | 2023-12 |
 | [MADRe](https://github.com/lbcb-sci/MADRe.git) | TGS | strain | [10.1093/gigascience/giag030](https://doi.org/10.1093/gigascience/giag030) | 2025-11 |
-| [MAGE]() | NGS | species | [10.1007/978-3-031-36911-7_14](https://doi.org/10.1007/978-3-031-36911-7_14) | none |
+| [MAGE]() | NGS | strain | [10.1007/978-3-031-36911-7_14](https://doi.org/10.1007/978-3-031-36911-7_14) | none |
 | [MegaBLAST]() | NGS;TGS |  | [NCBI blast]() | none |
 | [MetaCache](https://github.com/muellan/metacache.git) | NGS | species | [10.1093/bioinformatics/btx520](https://doi.org/10.1093/bioinformatics/btx520) | 2025-12 |
 | [MetaMaps](https://github.com/DiltheyLab/MetaMaps.git) | TGS | strain | [10.1038/s41467-019-10934-2](https://doi.org/10.1038/s41467-019-10934-2) | 2023-10 |
