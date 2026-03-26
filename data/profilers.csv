@@ -13,6 +13,7 @@ DNA-to-DNA, Centrifuge, NGS;TGS, species (strain), https://github.com/DaehwanKim
 DNA-to-DNA, Centrifuger, NGS;TGS, strain, https://github.com/DaehwanKimLab/centrifuge.git, 10.1186/s13059-024-03244-4, https://doi.org/10.1186/s13059-024-03244-4, 2024
 DNA-to-DNA, Mora, NGS;TGS, strain, https://github.com/AfZheng126/MORA.git, 10.1186/s12859-024-05768-9, https://doi.org/10.1186/s12859-024-05768-9, 2023
 DNA-to-DNA, MetaMaps, TGS, strain, https://github.com/DiltheyLab/MetaMaps.git, 10.1038/s41467-019-10934-2, https://doi.org/10.1038/s41467-019-10934-2, 2019
+DNA-to-DNA, MADRe, TGS, strain, https://github.com/lbcb-sci/MADRe.git, 10.1093/gigascience/giag030, https://doi.org/10.1093/gigascience/giag030, 2025
 DNA-to-DNA, Qmatey, NGS, strain, https://github.com/bodeolukolu/Qmatey.git, 10.1093/bib/bbad351, https://doi.org/10.1093/bib/bbad351, 2023
 DNA-to-DNA, CAMMiQ, NGS, strain, https://github.com/algo-cancer/CAMMiQ.git, 10.1038/s41467-022-33869-7, https://doi.org/10.1038/s41467-022-33869-7, 2022
 DNA-to-DNA, PanTax, NGS;TGS, strain, https://github.com/LuoGroup2023/PanTax.git, 10.1101/gr.280858.125, https://www.genome.org/cgi/doi/10.1101/gr.280858.125, 2026
@@ -28,6 +29,6 @@ DNA-to-DNA and protein, Metabuli, NGS;TGS, species, https://github.com/steinegge
 Markers, MetaPhlAn4, NGS;TGS(v4.2.2), species, https://github.com/biobakery/MetaPhlAn.git, 10.1038/s41587-023-01688-w, https://doi.org/10.1038/s41587-023-01688-w, 2025
 Markers, Melon, TGS, species, https://github.com/xinehc/melon.git, 10.1186/s13059-024-03363-y, https://doi.org/10.1186/s13059-024-03363-y, 2024
 Markers, SingleM, NGS;TGS, species, https://github.com/wwood/singlem.git, 10.1038/s41587-025-02738-1, https://doi.org/10.1038/s41587-025-02738-1, 2024
-DNA-to-DNA, MADRe, NGS, strain, https://github.com/lbcb-sci/MADRe.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.05.12.653324, 2025
+
 DNA-to-DNA, Chimera, NGS, species, https://github.com/LoadStar822/Chimera.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1, 2025
 DNA-to-DNA, UniqSketch, NGS, strain, https://github.com/amazon-science/uniqsketch.git, , , 2025
