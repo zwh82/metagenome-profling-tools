@@ -52,6 +52,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [Kraken2](https://github.com/DerrickWood/kraken2.git) | NGS[;TGS] | species | [10.1186/s13059-019-1891-0](https://doi.org/10.1186/s13059-019-1891-0) | 2026-3 |
 | [KrakenUniq](https://github.com/fbreitwieser/krakenuniq.git) | NGS;TGS | species | [10.1186/s13059-018-1568-0](https://doi.org/10.1186/s13059-018-1568-0) | 2023-12 |
 | [MADRe](https://github.com/lbcb-sci/MADRe.git) | TGS | strain | [10.1093/gigascience/giag030](https://doi.org/10.1093/gigascience/giag030) | 2025-11 |
+| [MAGE]() | NGS | species | [10.1007/978-3-031-36911-7_14](https://doi.org/10.1007/978-3-031-36911-7_14) | none |
 | [MegaBLAST]() | NGS;TGS |  | [NCBI blast]() | none |
 | [MetaCache](https://github.com/muellan/metacache.git) | NGS | species | [10.1093/bioinformatics/btx520](https://doi.org/10.1093/bioinformatics/btx520) | 2025-12 |
 | [MetaMaps](https://github.com/DiltheyLab/MetaMaps.git) | TGS | strain | [10.1038/s41467-019-10934-2](https://doi.org/10.1038/s41467-019-10934-2) | 2023-10 |
@@ -88,4 +89,5 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [MetaKSSD](https://github.com/yhg926/MetaKSSD.git) | NGS | species | [10.1038/s43588-025-00855-0](https://doi.org/10.1038/s43588-025-00855-0) | 2025-11 |
 | [MetaPhlAn4](https://github.com/biobakery/MetaPhlAn.git) | NGS;TGS(v4.2.2) | species | [10.1038/s41587-023-01688-w](https://doi.org/10.1038/s41587-023-01688-w) | 2025-12 |
 | [SingleM](https://github.com/wwood/singlem.git) | NGS;TGS | species | [10.1038/s41587-025-02738-1](https://doi.org/10.1038/s41587-025-02738-1) | 2026-3 |
+| [protal](https://github.com/4less/protal.git) | NGS | strain | [no paper now]() | 2026-2 |
 
