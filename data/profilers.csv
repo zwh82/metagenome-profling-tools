@@ -11,6 +11,7 @@ DNA-to-DNA, Ganon2, NGS[;TGS], species (strain), https://github.com/pirovc/ganon
 DNA-to-DNA, KMCP, NGS[;TGS], species (strain), https://github.com/shenwei356/kmcp.git, 10.1093/bioinformatics/btac845, https://doi.org/10.1093/bioinformatics/btac845, 2022
 DNA-to-DNA, Centrifuge, NGS;TGS, species (strain), https://github.com/DaehwanKimLab/centrifuge.git, 10.1101/gr.210641.116, http://www.genome.org/cgi/doi/10.1101/gr.210641.116, 2016
 DNA-to-DNA, Centrifuger, NGS;TGS, strain, https://github.com/DaehwanKimLab/centrifuge.git, 10.1186/s13059-024-03244-4, https://doi.org/10.1186/s13059-024-03244-4, 2024
+DNA-to-DNA, Mora, NGS;TGS, strain, https://github.com/AfZheng126/MORA.git, 10.1186/s12859-024-05768-9, https://doi.org/10.1186/s12859-024-05768-9, 2023
 DNA-to-DNA, MetaMaps, TGS, strain, https://github.com/DiltheyLab/MetaMaps.git, 10.1038/s41467-019-10934-2, https://doi.org/10.1038/s41467-019-10934-2, 2019
 DNA-to-DNA, Qmatey, NGS, strain, https://github.com/bodeolukolu/Qmatey.git, 10.1093/bib/bbad351, https://doi.org/10.1093/bib/bbad351, 2023
 DNA-to-DNA, CAMMiQ, NGS, strain, https://github.com/algo-cancer/CAMMiQ.git, 10.1038/s41467-022-33869-7, https://doi.org/10.1038/s41467-022-33869-7, 2022
