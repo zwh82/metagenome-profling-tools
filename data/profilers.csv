@@ -30,6 +30,7 @@ Markers, MetaPhlAn4, NGS;TGS(v4.2.2), species, https://github.com/biobakery/Meta
 Markers, Melon, TGS, species, https://github.com/xinehc/melon.git, 10.1186/s13059-024-03363-y, https://doi.org/10.1186/s13059-024-03363-y, 2024
 Markers, SingleM, NGS;TGS, species, https://github.com/wwood/singlem.git, 10.1038/s41587-025-02738-1, https://doi.org/10.1038/s41587-025-02738-1, 2024
 Markers, MetaKSSD, NGS, species, https://github.com/yhg926/MetaKSSD.git, 10.1038/s43588-025-00855-0, https://doi.org/10.1038/s43588-025-00855-0, 2025
+Markers, Meteor2, NGS, strain, https://github.com/metagenopolis/meteor.git, 10.1186/s40168-025-02249-w, https://doi.org/10.1186/s40168-025-02249-w, 2025
 Markers, protal, NGS, strain, https://github.com/4less/protal.git, no paper now, , none
 DNA-to-DNA, Chimera, NGS, species, https://github.com/LoadStar822/Chimera.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1, 2025
 DNA-to-DNA, UniqSketch, NGS, strain, https://github.com/amazon-science/uniqsketch.git, , , 2025
