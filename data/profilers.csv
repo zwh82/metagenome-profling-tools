@@ -33,4 +33,4 @@ Markers, MetaKSSD, NGS, species, https://github.com/yhg926/MetaKSSD.git, 10.1038
 Markers, protal, NGS, strain, https://github.com/4less/protal.git, no paper now, , none
 DNA-to-DNA, Chimera, NGS, species, https://github.com/LoadStar822/Chimera.git, biorxiv, https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1, 2025
 DNA-to-DNA, UniqSketch, NGS, strain, https://github.com/amazon-science/uniqsketch.git, , , 2025
-DNA-to-DNA, MAGE, NGS, species, , 10.1007/978-3-031-36911-7_14, https://doi.org/10.1007/978-3-031-36911-7_14, none
+DNA-to-DNA, MAGE, NGS, strain, , 10.1007/978-3-031-36911-7_14, https://doi.org/10.1007/978-3-031-36911-7_14, none
