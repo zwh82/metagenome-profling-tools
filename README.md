@@ -90,5 +90,5 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [MetaPhlAn4](https://github.com/biobakery/MetaPhlAn.git) | NGS;TGS(v4.2.2) | species | [10.1038/s41587-023-01688-w](https://doi.org/10.1038/s41587-023-01688-w) | 2025-12 |
 | [Meteor2](https://github.com/metagenopolis/meteor.git) | NGS | strain | [10.1186/s40168-025-02249-w](https://doi.org/10.1186/s40168-025-02249-w) | 2026-2 |
 | [SingleM](https://github.com/wwood/singlem.git) | NGS;TGS | species | [10.1038/s41587-025-02738-1](https://doi.org/10.1038/s41587-025-02738-1) | 2026-3 |
-| [protal](https://github.com/4less/protal.git) | NGS | strain | [no paper now]() | 2026-2 |
+| [protal](https://github.com/4less/protal.git) | NGS | strain | [no paper now]() | 2026-3 |
 
