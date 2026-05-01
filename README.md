@@ -44,12 +44,12 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [Bracken](https://github.com/jenniferlu717/Bracken.git) | NGS | species | [10.7717/peerj-cs.104](https://doi.org/10.7717/peerj-cs.104) | 2026-3 |
 | [CAMMiQ](https://github.com/algo-cancer/CAMMiQ.git) | NGS | strain | [10.1038/s41467-022-33869-7](https://doi.org/10.1038/s41467-022-33869-7) | 2021-10 |
 | [CLARK](https://github.com/rouni001/CLARK.git) | NGS[;TGS] | species | [10.1186/s12864-015-1419-2](https://doi.org/10.1186/s12864-015-1419-2) | 2024-5 |
-| [Centrifuge](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | species (strain) | [10.1101/gr.210641.116](http://www.genome.org/cgi/doi/10.1101/gr.210641.116) | 2025-6 |
-| [Centrifuger](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | strain | [10.1186/s13059-024-03244-4](https://doi.org/10.1186/s13059-024-03244-4) | 2025-6 |
+| [Centrifuge](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | species (strain) | [10.1101/gr.210641.116](http://www.genome.org/cgi/doi/10.1101/gr.210641.116) | 2026-4 |
+| [Centrifuger](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | strain | [10.1186/s13059-024-03244-4](https://doi.org/10.1186/s13059-024-03244-4) | 2026-4 |
 | [Chimera](https://github.com/LoadStar822/Chimera.git) | NGS | species | [biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1) | 2025-9 |
-| [Ganon2](https://github.com/pirovc/ganon.git) | NGS[;TGS] | species (strain) | [10.1093/nargab/lqaf094](https://doi.org/10.1093/nargab/lqaf094) | 2026-3 |
-| [KMCP](https://github.com/shenwei356/kmcp.git) | NGS[;TGS] | species (strain) | [10.1093/bioinformatics/btac845](https://doi.org/10.1093/bioinformatics/btac845) | 2023-9 |
-| [Kraken2](https://github.com/DerrickWood/kraken2.git) | NGS[;TGS] | species | [10.1186/s13059-019-1891-0](https://doi.org/10.1186/s13059-019-1891-0) | 2026-3 |
+| [Ganon2](https://github.com/pirovc/ganon.git) | NGS[;TGS] | species (strain) | [10.1093/nargab/lqaf094](https://doi.org/10.1093/nargab/lqaf094) | 2026-4 |
+| [KMCP](https://github.com/shenwei356/kmcp.git) | NGS[;TGS] | species (strain) | [10.1093/bioinformatics/btac845](https://doi.org/10.1093/bioinformatics/btac845) | 2026-4 |
+| [Kraken2](https://github.com/DerrickWood/kraken2.git) | NGS[;TGS] | species | [10.1186/s13059-019-1891-0](https://doi.org/10.1186/s13059-019-1891-0) | 2026-4 |
 | [KrakenUniq](https://github.com/fbreitwieser/krakenuniq.git) | NGS;TGS | species | [10.1186/s13059-018-1568-0](https://doi.org/10.1186/s13059-018-1568-0) | 2023-12 |
 | [MADRe](https://github.com/lbcb-sci/MADRe.git) | TGS | strain | [10.1093/gigascience/giag030](https://doi.org/10.1093/gigascience/giag030) | 2025-11 |
 | [MAGE]() | NGS | strain | [10.1007/978-3-031-36911-7_14](https://doi.org/10.1007/978-3-031-36911-7_14) | none |
@@ -66,7 +66,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [StrainScan](https://github.com/liaoherui/StrainScan.git) | NGS | strain (single-species) | [10.1186/s40168-023-01615-w](https://doi.org/10.1186/s40168-023-01615-w) | 2024-4 |
 | [Sylph](https://github.com/bluenote-1577/sylph.git) | NGS; TGS | species | [10.1038/s41587-024-02412-y](https://doi.org/10.1038/s41587-024-02412-y) | 2026-2 |
 | [Taxor](https://github.com/JensUweUlrich/Taxor.git) | TGS | species | [10.1101/gr.278623.123](https://www.genome.org/cgi/doi/10.1101/gr.278623.123) | 2025-8 |
-| [UniqSketch](https://github.com/amazon-science/uniqsketch.git) | NGS | strain | []() | 2026-3 |
+| [UniqSketch](https://github.com/amazon-science/uniqsketch.git) | NGS | strain | []() | 2026-4 |
 
 ### DNA-to-protein
  
@@ -74,21 +74,21 @@ Therefore, the categorization of tools in here is primarily based on the experim
 |:----------|:---------- |:--------------- |:------------|:------------|
 | [Kaiju](https://github.com/bioinformatics-centre/kaiju.git) | NGS[;TGS] | species | [10.1038/ncomms11257](https://doi.org/10.1038/ncomms11257) | 2025-1 |
 | [MEGAN-LR](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6) | TGS | strain | [10.1186/s13062-018-0208-7](https://doi.org/10.1186/s13062-018-0208-7) | 2018 |
-| [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-3 |
+| [MMseqs2](https://github.com/soedinglab/MMseqs2.git) | NGS[;TGS] | forma;varietas;subspecies;species | [10.1093/bioinformatics/btab184](https://doi.org/10.1093/bioinformatics/btab184) | 2026-4 |
 
 ### DNA-to-DNA and protein
 | Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
-| [Metabuli](https://github.com/steineggerlab/Metabuli.git) | NGS;TGS | species | [10.1038/s41592-024-02273-y](https://doi.org/10.1038/s41592-024-02273-y) | 2026-3 |
+| [Metabuli](https://github.com/steineggerlab/Metabuli.git) | NGS;TGS | species | [10.1038/s41592-024-02273-y](https://doi.org/10.1038/s41592-024-02273-y) | 2026-4 |
 
 ### Markers
  
 | Profilers | Technology | Profiling_level | Publication | Last update |
 |:----------|:---------- |:--------------- |:------------|:------------|
-| [Melon](https://github.com/xinehc/melon.git) | TGS | species | [10.1186/s13059-024-03363-y](https://doi.org/10.1186/s13059-024-03363-y) | 2025-4 |
+| [Melon](https://github.com/xinehc/melon.git) | TGS | species | [10.1186/s13059-024-03363-y](https://doi.org/10.1186/s13059-024-03363-y) | 2026-5 |
 | [MetaKSSD](https://github.com/yhg926/MetaKSSD.git) | NGS | species | [10.1038/s43588-025-00855-0](https://doi.org/10.1038/s43588-025-00855-0) | 2025-11 |
 | [MetaPhlAn4](https://github.com/biobakery/MetaPhlAn.git) | NGS;TGS(v4.2.2) | species | [10.1038/s41587-023-01688-w](https://doi.org/10.1038/s41587-023-01688-w) | 2025-12 |
-| [Meteor2](https://github.com/metagenopolis/meteor.git) | NGS | strain | [10.1186/s40168-025-02249-w](https://doi.org/10.1186/s40168-025-02249-w) | 2026-2 |
-| [SingleM](https://github.com/wwood/singlem.git) | NGS;TGS | species | [10.1038/s41587-025-02738-1](https://doi.org/10.1038/s41587-025-02738-1) | 2026-3 |
-| [protal](https://github.com/4less/protal.git) | NGS | strain | [no paper now]() | 2026-3 |
+| [Meteor2](https://github.com/metagenopolis/meteor.git) | NGS | strain | [10.1186/s40168-025-02249-w](https://doi.org/10.1186/s40168-025-02249-w) | 2026-4 |
+| [SingleM](https://github.com/wwood/singlem.git) | NGS;TGS | species | [10.1038/s41587-025-02738-1](https://doi.org/10.1038/s41587-025-02738-1) | 2026-4 |
+| [protal](https://github.com/4less/protal.git) | NGS | strain | [no paper now]() | 2026-4 |
 
