@@ -45,7 +45,7 @@ Therefore, the categorization of tools in here is primarily based on the experim
 | [CAMMiQ](https://github.com/algo-cancer/CAMMiQ.git) | NGS | strain | [10.1038/s41467-022-33869-7](https://doi.org/10.1038/s41467-022-33869-7) | 2021-10 |
 | [CLARK](https://github.com/rouni001/CLARK.git) | NGS[;TGS] | species | [10.1186/s12864-015-1419-2](https://doi.org/10.1186/s12864-015-1419-2) | 2026-6 |
 | [Centrifuge](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | species (strain) | [10.1101/gr.210641.116](http://www.genome.org/cgi/doi/10.1101/gr.210641.116) | 2026-4 |
-| [Centrifuger](https://github.com/DaehwanKimLab/centrifuge.git) | NGS;TGS | strain | [10.1186/s13059-024-03244-4](https://doi.org/10.1186/s13059-024-03244-4) | 2026-4 |
+| [Centrifuger](https://github.com/mourisl/centrifuger) | NGS;TGS | strain | [10.1186/s13059-024-03244-4](https://doi.org/10.1186/s13059-024-03244-4) | 2026-6 |
 | [Chimera](https://github.com/LoadStar822/Chimera.git) | NGS | species | [biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1) | 2026-7 |
 | [Ganon2](https://github.com/pirovc/ganon.git) | NGS[;TGS] | species (strain) | [10.1093/nargab/lqaf094](https://doi.org/10.1093/nargab/lqaf094) | 2026-6 |
 | [KMCP](https://github.com/shenwei356/kmcp.git) | NGS[;TGS] | species (strain) | [10.1093/bioinformatics/btac845](https://doi.org/10.1093/bioinformatics/btac845) | 2026-4 |
